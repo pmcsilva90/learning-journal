@@ -1,4 +1,4 @@
-import { generateRandomDates } from "./helperFunctions.js";
+import { generateRandomDates } from "./utils.js";
 
 export const blogPosts = [
     {
